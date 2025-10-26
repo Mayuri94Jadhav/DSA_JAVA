@@ -1,0 +1,1 @@
+public class no_half_pyramid{
