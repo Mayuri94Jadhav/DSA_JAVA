@@ -9,7 +9,7 @@ public class pairs_array{
             }
             System.out.println();
         }
-        System.out.println("total no. of pairs:"+ tp); ..// formula TP= n(n-1)/2
+        System.out.println("total no. of pairs:"+ tp); // formula TP= n(n-1)/2
     }
     public static void main(String args[]) {
         int number[] = {2,4,6,8,10};
