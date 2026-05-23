@@ -1,0 +1,9 @@
+ # Packages is  group of similer tpyes of classes,
+ interfaces and sub -packages
+ 
+ # TYPES
+ 1. buildin Packages
+ ex. import java.uti.*;
+ 
+ 2. userdefined packages
+ ex. package myPackage;
