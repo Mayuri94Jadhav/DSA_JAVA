@@ -22,6 +22,9 @@ public class max_sum_I {
         }
         System.out.println("max is = " + maxSum);
     }
+    
+    // ...... using Kadanes Algoritham......
+
     public static void kadanes (int numbers[]){
         int ms = Integer.MIN_VALUE;
         int cs=0; 
